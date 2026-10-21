@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://e13ctr0n1c.github.io/say-it-slowly/sitemap.xml
